@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Ozaaaan/tp3/edit/gh-pages/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+(https://github.com/Ozaaaan/tp3/blob/main/images/eren.jpeg)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
